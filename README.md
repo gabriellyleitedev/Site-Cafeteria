@@ -22,7 +22,7 @@ Este projeto representa o meu **"Hello World"** no desenvolvimento web. Foi aqui
 
 ## 🌎 Link para Visualização
 O projeto está publicado e pode ser acessado aqui:
-👉 [Acesse o Site Cafeteria](https://gabriellyleitedev.github.io/site-cafeteria/)
+👉 [Acesse o Site Cafeteria](https://gabriellyleitedev.github.io/Site-Cafeteria/)
 
 ---
 
